@@ -1,0 +1,5 @@
+{
+  "name": "Discount Calculator",
+  "description": "A simple and elegant tool to quickly calculate the final price after applying a discount. Enter the original price and the discount percentage to see how much you save.",
+  "requestFramePermissions": []
+}
